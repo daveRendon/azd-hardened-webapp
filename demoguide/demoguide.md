@@ -26,6 +26,8 @@
 
 This scenario is aligned with the AZ-500 and AZ-104 path and provides a demo solution for creating an Azure App Service web app in a tightly controlled network environment with strict inbound and outbound network policies
 
+👉 https://blog.azinsider.net/deploying-network-hardened-web-apps-on-azure-with-azd-bicep-ac57591ad807?source=friends_link&sk=6d9ce4d1b16905898653a9338e546214
+
 Resources deployed: 
 # Azure Deployment Resources
 
